@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Core Pages -->
+  <url><loc>https://smilehubclinics.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://smilehubclinics.com/services.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/team.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smilehubclinics.com/before-after.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/reviews.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smilehubclinics.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- High-Priority Service Pages -->
+  <url><loc>https://smilehubclinics.com/services/dental-implants.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/services/root-canal.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/services/clear-aligners.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/services/veneers.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/services/teeth-whitening.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smilehubclinics.com/services/smile-makeover.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/services/crowns-bridges.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://smilehubclinics.com/services/full-mouth-rehabilitation.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smilehubclinics.com/services/dentures.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smilehubclinics.com/services/fillings.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://smilehubclinics.com/services/composite-bonding.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://smilehubclinics.com/services/implant-surgery.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smilehubclinics.com/services/dental-braces.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smilehubclinics.com/services/scaling-polishing.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://smilehubclinics.com/services/fissure-sealants.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://smilehubclinics.com/services/fluoride-treatment.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://smilehubclinics.com/services/night-guards-splints.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://smilehubclinics.com/services/extractions.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://smilehubclinics.com/services/pediatric-dentistry.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://smilehubclinics.com/services/emergency-dentistry.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+</urlset>
